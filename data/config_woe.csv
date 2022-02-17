@@ -1,0 +1,14 @@
+var_name,var_dtype,is_tobe_bin,is_candidate,is_modelfeature
+target,int64,0,0,0
+LOAN,int64,1,1,1
+MORTDUE,int64,1,1,1
+VALUE,int64,1,1,1
+REASON,object,0,1,1
+JOB,object,0,1,1
+YOJ,int64,1,1,1
+DEROG,int64,1,1,1
+DELINQ,int64,1,1,1
+CLAGE,int64,1,1,1
+NINQ,int64,1,1,1
+CLNO,int64,1,1,1
+DEBTINC,int64,1,1,1
